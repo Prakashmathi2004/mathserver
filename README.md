@@ -129,6 +129,6 @@ urlpatterns = [
 [![OUTPUT](./out.png)](https://github.com/Prakashmathi2004/mathserver.git)
 
 ## HOME PAGE:
-![home](https://github.com/Prakashmathi2004/mathserver/assets/118350045/57637f1b-d3f8-4513-8157-212a1613598b)
+![server side](https://github.com/Prakashmathi2004/mathserver/assets/118350045/4a98403f-8ce6-4e62-9539-21217e64f010)
 ## RESULT:
 The program for performing server side processing is completed successfully.
